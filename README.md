@@ -1,7 +1,13 @@
-# Hi there, I'm Kyryl Fedotov!
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+;I'm+Kyrylo+Fedotov;A+Python+Developer;CS+Student+%40+LNU" alt="Typing SVG" />
+  </a>
+</div>
 
-🎓 **Computer Science Student (2nd Year)** | Ivan Franko National University of Lviv
-🐍 **Python Developer**
+<br>
+
+**Computer Science Student (2nd Year)** | Ivan Franko National University of Lviv
+**Python Developer**
 
 Welcome to my profile! I am passionate about building software that solves real-world problems, specifically focusing on tools for **self-organization** and **productivity**.
 Currently, I am expanding my skills in **Backend Development**, exploring web architecture, and database management.
@@ -29,10 +35,13 @@ Currently, I am expanding my skills in **Backend Development**, exploring web ar
 ---
 
 ### Current Goals
-- 🔭 Building open-source projects for daily automation.
-- 🌱 Deepening knowledge in **Django REST Framework** and **Docker**.
-- ⚡ Planning to master asynchronous programming with **FastAPI**.
+- Building open-source projects for daily automation.
+- Deepening knowledge in **Django REST Framework** and **Docker**.
+- Planning to master asynchronous programming with **FastAPI**.
 
 ---
- *Thanks for visiting!)*
+<div align="center">
+ <i>Thanks for visiting!)</i>
+</div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="pointer-events: none;">
