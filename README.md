@@ -8,7 +8,7 @@ Currently, I am expanding my skills in **Backend Development**, exploring web ar
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 | Domain | Technologies |
 | :--- | :--- |
@@ -28,11 +28,11 @@ Currently, I am expanding my skills in **Backend Development**, exploring web ar
 
 ---
 
-### 🎯 Current Goals
+### Current Goals
 - 🔭 Building open-source projects for daily automation.
 - 🌱 Deepening knowledge in **Django REST Framework** and **Docker**.
 - ⚡ Planning to master asynchronous programming with **FastAPI**.
 
 ---
-⭐️ *Thanks for visiting!*
+ *Thanks for visiting!)*
 
